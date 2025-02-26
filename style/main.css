@@ -32,6 +32,10 @@ body {
   font-size: 4.5rem;
 }
 
+#name {
+  font-size: 3.9rem;
+}
+
 .two {
   font-size: 1.2rem;
   font-weight: lighter;
